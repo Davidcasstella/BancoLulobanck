@@ -3,6 +3,10 @@ import java.util.Scanner;
 
 public class Probar {
     public static void main(String[] args) {
+    	
+    	
+    	
+    	System.out.println("Este es un mensaje nuevo para aprender github");
         Scanner scanner = new Scanner(System.in);
         double n;
         double f, p;
